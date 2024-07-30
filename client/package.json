@@ -1,0 +1,91 @@
+{
+  "name": "didonggenz",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "20.9.0",
+    "npm": "10.1.0"
+  },
+  "dependencies": {
+    "@coreui/react-chartjs": "^3.0.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@mui/x-date-pickers": "^6.15.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.9.0",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.2",
+    "cookie-parser": "^1.4.6",
+    "date-fns-tz": "^1.0.12",
+    "dayjs": "^1.11.11",
+    "dotenv": "^16.3.1",
+    "es6-promise": "^4.2.8",
+    "firebase": "^10.9.0",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.1",
+    "http-proxy-middleware": "^2.0.6",
+    "jsonwebtoken": "^9.0.2",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.7.1",
+    "jwt-decode": "^3.1.2",
+    "mdb-react-ui-kit": "^6.3.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "otp-input-react": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "quill": "^1.3.7",
+    "quill-image-uploader": "^1.3.0",
+    "react": "^18.2.0",
+    "react-autosuggest": "^10.1.0",
+    "react-avatar-edit": "^1.2.0",
+    "react-avatar-editor": "^13.0.2",
+    "react-countup": "^6.5.3",
+    "react-datepicker": "^6.9.0",
+    "react-dom": "^18.2.0",
+    "react-helmet-async": "^2.0.5",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.2.1",
+    "react-otp-input": "^3.1.1",
+    "react-quill": "^2.0.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "recharts": "^2.10.2",
+    "slick-carousel": "^1.8.1",
+    "stream-http": "^3.2.0",
+    "styled-components": "^6.0.7",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}

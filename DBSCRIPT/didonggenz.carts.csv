@@ -1,0 +1,3 @@
+_id,user,__v,items[0].product,items[0].productVariant,items[0].quantity,items[0].color,items[0].memory,items[0].price,items[0].pictures,items[0].subtotal,items[0].sku,items[0].checked,items[0]._id
+665868d7302504a072f86e60,664770ea4f2a06a02e610a9b,61,,,,,,,,,,,
+6688e4429e1251e399df2982,6663358474be2634bef7c782,8,6627f509aa4178073b257504,6627f50aaa4178073b257507,3,Tím,256GB,14890000,https://res.cloudinary.com/dgj5oa5c0/image/upload/v1713894308/mwmqecqudkkgkxjrrvpm.jpg,44670000,SS0002T,true,668a1a59d94cea33f6a412b6

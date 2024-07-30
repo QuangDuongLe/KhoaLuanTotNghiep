@@ -1,0 +1,8 @@
+_id,name,code,startDate,endDate,quantity,discount,maxPrice,applicablePaymentMethod,applicableProductTypes[0],applicableProductTypes[1],applicableProductTypes[2],applicableProductTypes[3],applicableProductTypes[4],__v
+6640a7c9ea3bf99ce4b558f3,Khuyến mãi đặc biệt cực sốc,KHOALUANTOTNGHIEP,01/07/2024,10/10/2024,7,0.05,500000,Tất cả,Điện thoại,Ốp lưng,,,,0
+667bcce8c8d965df469b1f5f,sale,sale,12/07/2024,05/10/2024,9,0.1,500000,Tất cả,Điện thoại,Ốp lưng,Cáp sạc,Pin dự phòng,Tai nghe,0
+6688d081a994ca5fa6d9fcdd,Khuyến mãi đặc biệt chấn động,VIP88,04/07/2024,31/07/2024,8,0.1,400000,Tất cả,Ốp lưng,Cáp sạc,Pin dự phòng,Tai nghe,Điện thoại,0
+6688d0d5a994ca5fa6d9fce2,Khuyến mãi cực sốc chấn động,VIP99,01/07/2024,05/07/2024,10,1,200000,Tất cả,Điện thoại,Ốp lưng,Cáp sạc,Pin dự phòng,Tai nghe,0
+6688d16ca994ca5fa6d9fcf3,Di động,phone88,01/07/2024,31/07/2024,10,1,100000,VNPAY,Điện thoại,,,,,0
+6688d1cfa994ca5fa6d9fd06,fut,fut,01/08/2024,05/08/2024,10,0.1,100000,Tất cả,Điện thoại,Ốp lưng,Cáp sạc,Pin dự phòng,Tai nghe,0
+6688e7de9e1251e399df37fe,Khuyến mãi,VIP12,01/07/2024,17/07/2024,9,0.08,100000,Tất cả,Ốp lưng,Điện thoại,,,,0

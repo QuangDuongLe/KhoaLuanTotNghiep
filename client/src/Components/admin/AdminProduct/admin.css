@@ -1,0 +1,33 @@
+.floating-table {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .floating-table:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  .bordered-table {
+    border-collapse: collapse;
+  }
+  
+  .bordered-table th,
+  .bordered-table td {
+    border: 1px solid #dee2e6;
+    padding: 0.75rem;
+  }
+  .buttonnn {
+    /* Định nghĩa các thuộc tính CSS tùy chỉnh cho nút của bạn ở đây */
+    /* Ví dụ: */
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #1890ff; /* Màu chính của nút */
+    color: #fff; /* Màu chữ */
+    border: none; /* Loại bỏ đường viền */
+    transition: background-color 0.3s; /* Hiệu ứng chuyển đổi màu nền */
+}
+
+.buttonnn:hover {
+    background-color: #40a9ff; /* Màu nền khi di chuột qua */
+}

@@ -1,0 +1,98 @@
+/* Đổi màu nền của DatePicker */
+.react-datepicker {
+    background-color: #fff;
+}
+
+/* Đổi màu của ngày trong DatePicker */
+.react-datepicker__day--in-month {
+    color: #333;
+}
+
+/* Đổi màu nền của ngày được chọn trong DatePicker */
+.react-datepicker__day--selected {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Đổi màu chữ của ngày cuối tuần trong DatePicker */
+.react-datepicker__day--weekend {
+    color: red;
+}
+
+/* Đổi kích thước của DatePicker */
+.react-datepicker {
+    font-size: 14px;
+}
+
+/* Đổi kích thước của input */
+.react-datepicker__input-container input {
+    width: 150px;
+}
+
+/* Đổi kích thước của năm */
+.react-datepicker__year-container {
+    width: 200px;
+    height: 200px;
+    font-size: 14px;
+    /* Các thuộc tính CSS khác */
+}
+
+/* Đổi kích thước của nút chuyển giữa các năm */
+.react-datepicker__navigation--years-previous,
+.react-datepicker__navigation--years-upcoming {
+    width: 50px;
+    /* Điều chỉnh chiều rộng của nút */
+    height: 50px;
+    /* Điều chỉnh chiều cao của nút */
+    font-size: 18px;
+    /* Điều chỉnh kích thước chữ của nút */
+    color: #007bff;
+    /* Màu chữ của nút */
+}
+
+/* Đổi màu nền của phần chọn năm */
+.react-datepicker__year-container {
+    background-color: #f0f0f0;
+    /* Màu nền của phần chọn năm */
+    border-radius: 5px;
+    /* Bo tròn viền của phần chọn năm */
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    /* Hiển thị bóng đổ cho phần chọn năm */
+}
+
+/* Đổi màu chữ của các năm */
+.react-datepicker__year-text {
+    color: #333;
+    /* Màu chữ của các năm */
+}
+
+/* Đổi màu nền của nút chọn năm */
+.react-datepicker__year-option {
+    background-color: #fff;
+    /* Màu nền của nút chọn năm */
+}
+
+/* Đổi màu chữ của nút chọn năm khi hover */
+.react-datepicker__year-option:hover {
+    color: #007bff;
+    /* Màu chữ của nút khi hover */
+}
+
+/* Đổi màu chữ của nút chọn năm khi được chọn */
+.react-datepicker__year-option--selected {
+    color: #007bff;
+    /* Màu chữ của nút được chọn */
+}
+
+/* Đổi màu nền của nút chọn năm khi được chọn */
+.react-datepicker__year-option--selected:hover {
+    background-color: #f0f0f0;
+    /* Màu nền của nút được chọn khi hover */
+}
+.react-datepicker__year-dropdown-container {
+    display: inline-block;
+}
+.react-datepicker__year-read-view--down-button,
+.react-datepicker__year-read-view--up-button {
+    color: black; /* Thay đổi màu chữ thành đen */
+}

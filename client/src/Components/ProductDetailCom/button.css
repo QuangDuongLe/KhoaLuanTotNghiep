@@ -1,0 +1,24 @@
+.memory-button.selected {
+  border: 1px solid #00BFFF;
+  font-weight: bold; 
+  color: #00BFFF; 
+}
+
+.custom-emerald {
+  background-color: #fff; 
+}
+
+.logo-container {
+  background-color: #efefef; 
+  width: fit-content;
+  border-radius: 50%; 
+  padding: 10px; 
+}
+.custom-button {
+  padding: 8px 60px;
+  background-color: #ff3300; /* Màu nền xanh lá cây */
+  color: #ffffff; /* Màu chữ trắng */
+  border: none; /* Loại bỏ đường viền */
+  border-radius: 5px; /* Bo góc */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Hiệu ứng bóng đen */
+}
